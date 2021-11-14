@@ -8,7 +8,7 @@ const getweather = (long, lati, callback) => {
         } else if (response.body.error) {
             callback("connect fetch the data", undefined)
         } else {
-            callback(undefined, "current temp is : " + response.body.current.temperature + "it feels like" + response.body.current.feelslike)
+            callback(undefined, "current temp is " + response.body.current.temperature + ", feels like" + response.body.current.feelslike + ", the visibiliy is " + response.body.current.visibility)
         }
     })
 }
