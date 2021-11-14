@@ -1,4 +1,4 @@
-console.log("client side javascript running");
+// console.log("client side javascript running");
 
 // fetch("http://localhost:3000/weather?address=sanchore").then((response) => {
 //     response.json().then((data) => {
