@@ -12,6 +12,7 @@
 Link for the https://bishnoi-weather-app.herokuapp.com/
 
 ![des](https://user-images.githubusercontent.com/47236609/144000299-0a6172ec-06f7-43ea-8a8d-582eaec9bc13.png)
+![d2](https://user-images.githubusercontent.com/47236609/144000414-8c11b622-a9d6-4694-8ff8-bd41b04fb8f7.png)
 
 
 ## Tech Used
